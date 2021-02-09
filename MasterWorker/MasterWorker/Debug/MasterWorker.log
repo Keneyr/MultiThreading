@@ -1,0 +1,2 @@
+﻿  Main.cpp
+e:\qinran\practice\multithreading\masterworker\masterworker\master.h(40): error C3867: “Master::func”: 非标准语法；请使用 "&" 来创建指向成员的指针
